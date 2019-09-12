@@ -6705,10 +6705,10 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
-pdf2json@^1.1.7:
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/pdf2json/-/pdf2json-1.1.7.tgz#a09d705ce64d82cbc7d0473d1424963f751bec32"
-  integrity sha1-oJ1wXOZNgsvH0Ec9FCSWP3Ub7DI=
+pdf2json@^1.1.8:
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/pdf2json/-/pdf2json-1.1.8.tgz#8f268a662ee417b1b1574c362f2caaeb3b7187da"
+  integrity sha512-ka7l/w+4FM5vdI8X9UihxqdTispanZ72ZKsFdghwpBaHcIhXeWCO0qs81P9modFZHf7s4znf0sxc5k6wk6L4Og==
   dependencies:
     async "^2.0.1"
     lodash "^4.15.0"
