@@ -5754,10 +5754,10 @@ makeerror@1.0.x:
   dependencies:
     tmpl "1.0.x"
 
-mammoth@^1.4.7:
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/mammoth/-/mammoth-1.4.7.tgz#c9c2e6d5d4ba6feab996c2b66f2c2c3d69acaadd"
-  integrity sha512-vN13//bwnOhYPYArerIHXgDV6hhSzpyQjdtoRaJjMU9z60DBQlb/A2Ug59QBVgjWiJXpVUH0sLmXunbFg5J0EQ==
+mammoth@^1.4.9:
+  version "1.4.9"
+  resolved "https://registry.yarnpkg.com/mammoth/-/mammoth-1.4.9.tgz#03187d39e28952c83a3aa37e583a3ecb656ba35c"
+  integrity sha512-Qg9t6HBPeMPIRE6Oyd1DAovgu8ZJ5gAWPzqhBgOQQbNrGbBa5pewxrCqyeMUOm0u4mwYO5KziGYcykmMzdUL2A==
   dependencies:
     argparse "~1.0.3"
     bluebird "~3.4.0"
