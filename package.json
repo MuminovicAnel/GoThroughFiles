@@ -30,7 +30,7 @@
     "fs": "^0.0.1-security",
     "graceful-fs": "^4.1.15",
     "mammoth": "^1.4.7",
-    "pdf2json": "^1.1.7",
+    "pdf2json": "^1.2.0",
     "promise-filter": "^1.1.0",
     "react": "^16.5.2",
     "react-box-shadow": "^1.0.1",
