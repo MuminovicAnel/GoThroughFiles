@@ -45,7 +45,7 @@
   "author": "Dardan Iljazi, Anel Muminovic, David Niembro",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^3.0.2",
+    "electron": "^9.1.0",
     "electron-packager": "^13.0.0",
     "electron-winstaller": "^2.7.0",
     "foreman": "^3.0.1",
