@@ -29,7 +29,7 @@
     "foreman": "^3.0.1",
     "fs": "^0.0.1-security",
     "graceful-fs": "^4.1.15",
-    "mammoth": "^1.4.7",
+    "mammoth": "^1.4.13",
     "pdf2json": "^1.1.7",
     "promise-filter": "^1.1.0",
     "react": "^16.5.2",
