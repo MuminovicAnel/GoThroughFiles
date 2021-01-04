@@ -20,7 +20,7 @@
     "dist": "npm run build && build"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "codepage": "^1.14.0",
     "electron-is-dev": "^1.0.1",
     "electron-json-storage": "^4.1.4",
