@@ -23,7 +23,7 @@
     "axios": "^0.18.0",
     "codepage": "^1.14.0",
     "electron-is-dev": "^1.0.1",
-    "electron-json-storage": "^4.1.4",
+    "electron-json-storage": "^4.4.0",
     "electron-store": "^2.0.0",
     "fast-glob": "^2.2.4",
     "foreman": "^3.0.1",
